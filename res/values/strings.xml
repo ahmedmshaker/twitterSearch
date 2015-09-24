@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">twitersearch</string>
+    <string name="action_settings">Settings</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="save">save</string>
+    <string name="hint">enter search quary in  twitter</string>
+    <string name="tagd">tagged searchs</string>
+    <string name="cleat">clear</string>
+    <string name="cleart">clear tagges</string>
+    <string name="edit">edit</string>
+    <string name="searchedbtn">https://twitter.com/#!/search/realtime/</string>
+    <color name="col">#123456</color>
+    <string name="ssaved">enter tagged quary</string>
+    <string name="masseage">are you sure you delete all tags</string>
+    <string name="title">are you sure?</string>
+    <string name="oks">OK</string>
+    <string name="cancels">Cancel</string>
+    <string name="meeagesave">enter search quary and taged search</string>
+    <string name="titesave">erorr entry</string>
+
+</resources>
